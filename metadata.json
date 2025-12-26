@@ -1,0 +1,5 @@
+{
+  "name": "Northwest Dynasty News Network  (NDNN)",
+  "description": "An ESPN-inspired fantasy football league dashboard using Sleeper API data. Features real-time recaps, luck-based power rankings, a trophy room, and AI-generated weekly highlights.",
+  "requestFramePermissions": []
+}
